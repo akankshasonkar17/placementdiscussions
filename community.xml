@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<?xml-stylesheet type="text/xsl" href="./community.xsl"?>
+<communities>
+
+    <community>
+        <name>Welcome</name>
+        <desc>Check this to know how to get started , Community Guidelines and everthing you need to know about this site</desc>
+        <creater>Akanksha Sonkar</creater>
+    </community>
+
+     <community>
+        <name>How I got this job</name>
+        <desc>People can post anonymously about their journey of failures and also success of getting that JOB</desc>
+         <creater>Timon </creater>
+     </community>
+ 
+    <community>
+        <name>Study Material </name>
+        <desc>PDFs , courses , To do Best questions, company que lists, they all can go here</desc>
+        <creater>Tom and Jerry</creater>
+    </community>
+</communities>
